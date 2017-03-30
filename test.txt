@@ -32,4 +32,19 @@
 </movie>
 /collection>
 
+<<<<<<< HEAD
 my name is zhaoqiao
+=======
+asdasd
+q
+a
+a
+\
+
+w
+a
+q
+qiguaile sdadakjjkasjdkamkjkasdmk
+akdjaskdasdkalsd
+mu name is zhaoqiao
+>>>>>>> origin/dev1
