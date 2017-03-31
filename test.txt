@@ -34,8 +34,5 @@
 my name is zhaoqiao
 my name is zhaohong
 my name is zhaoxian + age 28
-<<<<<<< Updated upstream
 my name is zhaosimazi
-=======
 my name is wangermazi
->>>>>>> Stashed changes
