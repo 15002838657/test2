@@ -33,18 +33,4 @@
 /collection>
 my name is zhaoqiao
 my name is zhaohong
-my name is zhaoxian
-asdasd
-q
-a
-a
-\
-
-w
-a
-q
-qiguaile sdadakjjkasjdkamkjkasdmk
-akdjaskdasdkalsd
-mu name is zhaoqiao
->>>>>>> origin/dev1
->>>>>>> dev
+my name is zhaoxian + age 28
